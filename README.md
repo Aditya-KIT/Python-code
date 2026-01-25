@@ -1,1 +1,1 @@
-# Python-code
+This file contains all the codes regarding python done on hackerrank
